@@ -1,3 +1,15 @@
+# About
+This is a website for renting cars, and its named Rose CarHub. where you can find additional features such as a functioning search bar, data pulled from an api, an eco-friendly design, and working car details. When you click the see more button to move to the next page to view more information on cars, the url is also immediately changed.
+# Technologies
+    React
+    Next.js
+    Typescript
+    Rapid Api
+    Tailwind CSS
+
+# Demo
+    https://car-hub-car-rental.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
